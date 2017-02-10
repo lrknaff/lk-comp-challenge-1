@@ -1,0 +1,28 @@
+/*https://coolors.co/131515-2b2c28-339989-7de2d1-fffafb*/
+body {
+  background-color: #FFFAFB;
+  box-sizing: border-box;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+header {
+  background-color: #2B2C28;
+  overflow: auto;
+  width: 100%;
+}
+
+nav {
+  float: left;
+  padding: 25px;
+}
+
+.header-nav {
+  color: #FFFAFB;
+  margin: 50px;
+  text-transform: uppercase;
+}
+
+.header-logo {
+  float: right;
+  width: 130px;
+}
